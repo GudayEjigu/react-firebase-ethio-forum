@@ -39,10 +39,10 @@ const OrderDetails = () => {
             <p>
               <b>Shipping Address</b>
               <br />
-              Address: {order.shippingAddress.line1},{" "}
-              {order.shippingAddress.line2},{order.shippingAddress.city}
+              Phone: {order.shippingAddress.phone}
               <br />
-              State: {order.shippingAddress.state}
+              Address: {order.shippingAddress.line1},
+              {order.shippingAddress.line2},{order.shippingAddress.city}
               <br />
               Country: {order.shippingAddress.country}
             </p>
