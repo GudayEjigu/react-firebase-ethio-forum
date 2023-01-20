@@ -1,7 +1,7 @@
 export const sliderData = [
   {
     image:
-      "https://medebar.com/wp-content/uploads/2022/06/il_794xN.3824942806_ml1v.webp",
+      "https://media.istockphoto.com/id/941855452/photo/handmade-leather-sandals.jpg?s=612x612&w=0&k=20&c=LY7KmjYKDPvSyOKYbn8MQSoi_bRTjTeuMDoBlgBebEQ=",
     heading: "Traditional Shoes",
     desc: "Up to 30% off on all onsale proucts.",
   },
