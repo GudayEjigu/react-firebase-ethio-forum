@@ -3,7 +3,7 @@ import { Link, useParams } from "react-router-dom";
 import useFetchDocument from "../../../customHooks/useFetchDocument";
 import styles from "./OrderDetails.module.scss";
 import spinnerImg from "../../../assets/spinner.jpg";
-import ChangeOrderStatus from "../../../components/admin/changeOrderStatus/ChangeOrderStatus";
+import ChangeOrderStatus from "../changeOrderStatus/changeOrderStatus";
 
 const OrderDetails = () => {
   const [order, setOrder] = useState(null);
